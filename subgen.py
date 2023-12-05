@@ -20,7 +20,6 @@ def generate_subtitles(audio_path):
         print(f"Could not request results from Google Web Speech API; {e}")
 
 if __name__ == "__main__":
-    # Replace 'your_audio_file.wav' with the path to your audio file
     audio_path = 'audio.wav'
     
     generate_subtitles(audio_path)
