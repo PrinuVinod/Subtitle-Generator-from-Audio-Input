@@ -1,10 +1,14 @@
 # Subtitle-Generator-from-Audio-Input
 
-# Installation
-```pip install SpeechRecognition```
+## Installation
+```
+pip install SpeechRecognition
+```
 
-# How to Run
+## How to Run
+```
 python subgen.py
+```
 
 # Input
 Save the Audio Input in the root folder or change the folder in the main code accordingly. The Audio Input file should always be in ".wav" format. If not convert all the Input Audio Files into ".wav" format.
